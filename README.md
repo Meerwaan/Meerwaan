@@ -48,13 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Meerwaan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Meerwaan&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meerwaan&theme=radical&hide_border=false&layout=compact)  
-
----
-
 ## 🚀 Highlighted Projects:
 - [**MWN-Digital**](https://mwn-tech.com) → Web agency project for independents & SMEs.  
 - **Make My Dry** → Mobile app helping users gradually reduce THC consumption.  
